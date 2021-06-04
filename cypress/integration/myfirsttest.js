@@ -16,5 +16,5 @@ describe('My First Test', () => {
         // cy.url().should('https://news.ycombinator.com', 'news')
         // // cy.wait(10000);
 
-    });
+    });    
   });
